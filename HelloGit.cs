@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace hello_git_hub
 {
-    class Program
+    class HelloGit
     {
         static void Main(string[] args)
         {
